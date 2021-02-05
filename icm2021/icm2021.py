@@ -8,3 +8,30 @@ genre=['Pop/Rock','R&B','Country','Jazz','Vocal','Blues','Folk','Reggae','Electr
       ,'','','','','','','','']
 plt.pie(a,labels=genre)
 plt.show()
+import networkx as nx
+import matplotlib.pyplot as plt
+G = nx.DiGraph()
+Genre={'Pop/Rock':1,'R&B;':2,'Country':3,'Jazz':4,'Vocal':5,'Blues':6,'Folk':7,'Reggae':8,'Electronic':9,'Latin':10,'International':11,'Religious':12,
+       'Stage & Screen':13,'Comedy/Spoken':14,'Classical':15,'New Age':16,'Avant-Garde':17,'Easy Listening':18,'Children\'s':19,'Unknown':20,'influencer_main_genre':21}
+data1=data.drop([0])
+data1=data1.head(1000)
+for i,r in data1.iterrows():
+    G.add_node(r[0])
+    G.add_node(r[4])
+    G.add_edge(r[0],r[4])
+pos=nx.spring_layout(G,iterations=10)
+
+nx.draw_networkx_nodes(G,pos,node_size=10)
+nx.draw_networkx_edges(G,pos)
+
+plt.show()
+count = 1
+total = 0
+dict1 = {}
+for i in G.nodes():
+      total += G.degree(i)
+      dict1[i] = G.degree(i)
+
+print(total)
+dict1 = sorted(dict1.items(), key=lambda kv: (kv[1]), reverse=True)
+dict1
