@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.10.17)  5 FEB 2021 15:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.10.17)  5 FEB 2021 21:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -550,41 +550,63 @@ File: ts1ntxtlf.fd 2015/01/18 v1.0 fd file for TS1/ntxtlf
 )
 LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
 (Font)              scaled to size 12.0pt on input line 82.
-
-
-LaTeX Warning: Citation `1' on page 1 undefined on input line 88.
-
-[1
+ [1
 
 ]
+
+LaTeX Warning: Citation `1' on page 2 undefined on input line 88.
+
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 10.95pt on input line 103.
+<firstmodel.png, id=12, 1387.584pt x 706.0779pt>
+File: firstmodel.png Graphic file (type png)
+<use firstmodel.png>
+Package pdftex.def Info: firstmodel.png  used on input line 105.
+(pdftex.def)             Requested size: 540.60236pt x 275.08914pt.
+
+Overfull \hbox (52.77985pt too wide) in paragraph at lines 105--106
+[]  
+ []
+
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
 Make it at least 14.49998pt.
 We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
-[2] (./MCM-ICM_2021_Summary.aux)
+[2] [3 <./firstmodel.png>]
+<Figure_1.png, id=21, 956.1321pt x 701.019pt>
+File: Figure_1.png Graphic file (type png)
+<use Figure_1.png>
+Package pdftex.def Info: Figure_1.png  used on input line 138.
+(pdftex.def)             Requested size: 682.86613pt x 500.65787pt.
+
+Overfull \hbox (195.04362pt too wide) in paragraph at lines 138--139
+ [][] 
+ []
+
+[4] [5 <./Figure_1.png>] (./MCM-ICM_2021_Summary.aux)
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 6067 strings out of 480608
- 76405 string characters out of 5905571
- 314690 words of memory out of 5000000
- 21860 multiletter control sequences out of 15000+600000
- 577871 words of font info for 93 fonts, out of 8000000 for 9000
+ 6081 strings out of 480608
+ 76622 string characters out of 5905571
+ 316690 words of memory out of 5000000
+ 21871 multiletter control sequences out of 15000+600000
+ 580680 words of font info for 94 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 31i,11n,45p,846b,252s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 31i,11n,45p,876b,316s stack positions out of 5000i,500n,10000p,200000b,80000s
 {f:/TeX/texlive/2020/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc}{f:/TeX/te
 xlive/2020/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}<f:/TeX/texlive/2020
 /texmf-dist/fonts/type1/public/tex-gyre/qtmr.pfb><f:/TeX/texlive/2020/texmf-dis
 t/fonts/type1/public/newtx/ztmb.pfb><f:/TeX/texlive/2020/texmf-dist/fonts/type1
 /public/newtx/ztmr.pfb>
-Output written on MCM-ICM_2021_Summary.pdf (3 pages, 113647 bytes).
+Output written on MCM-ICM_2021_Summary.pdf (6 pages, 467255 bytes).
 PDF statistics:
- 28 PDF objects out of 1000 (max. 8388607)
- 19 compressed objects within 1 object stream
+ 42 PDF objects out of 1000 (max. 8388607)
+ 26 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
