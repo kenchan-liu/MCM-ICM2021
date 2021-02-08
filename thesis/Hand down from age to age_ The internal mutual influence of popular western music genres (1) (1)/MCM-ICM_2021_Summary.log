@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.10.17)  5 FEB 2021 21:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.10.17)  9 FEB 2021 06:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -49,6 +49,31 @@ Package: iftex 2020/03/06 v1.0d TeX engine tests
 \Gm@layoutvoffset=\dimen142
 \Gm@dimlist=\toks16
 )
+(f:/TeX/texlive/2020/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count178
+\lst@gtempboxa=\box45
+\lst@token=\toks17
+\lst@length=\count179
+\lst@currlwidth=\dimen143
+\lst@column=\count180
+\lst@pos=\count181
+\lst@lostspace=\dimen144
+\lst@width=\dimen145
+\lst@newlines=\count182
+\lst@lineno=\count183
+\lst@maxwidth=\dimen146
+
+(f:/TeX/texlive/2020/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count184
+\lst@skipnumbers=\count185
+\lst@framebox=\box46
+)
+(f:/TeX/texlive/2020/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
 (f:/TeX/texlive/2020/texmf-dist/tex/latex/newtx/newtxtext.sty
 Package: newtxtext 2020/03/02 v1.625
 
@@ -66,21 +91,21 @@ LaTeX Info: Redefining \textsw on input line 47.
 LaTeX Info: Redefining \textssc on input line 48.
 LaTeX Info: Redefining \textulc on input line 49.
 )
-\ntx@fs=\dimen143
+\ntx@fs=\dimen147
  (f:/TeX/texlive/2020/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 
 (f:/TeX/texlive/2020/texmf-dist/tex/generic/xkeyval/xkeyval.tex
 (f:/TeX/texlive/2020/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks17
-\XKV@tempa@toks=\toks18
+\XKV@toks=\toks18
+\XKV@tempa@toks=\toks19
 )
-\XKV@depth=\count178
+\XKV@depth=\count186
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 (f:/TeX/texlive/2020/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count179
+\etb@tempcnta=\count187
 )
 (f:/TeX/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
@@ -97,7 +122,7 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 LaTeX Font Info:    Changing ? sub-encoding to TS1/0 on input line 75.
 )
-\ntxt@cntz=\count180
+\ntxt@cntz=\count188
 LaTeX Font Info:    Redeclaring math symbol \mathsterling on input line 263.
 )
 (f:/TeX/texlive/2020/texmf-dist/tex/latex/amsmath/amsmath.sty
@@ -110,51 +135,51 @@ Package: amstext 2000/06/29 v2.01 AMS text
 
 (f:/TeX/texlive/2020/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks19
-\ex@=\dimen144
+\@emptytoks=\toks20
+\ex@=\dimen148
 ))
 (f:/TeX/texlive/2020/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen145
+\pmbraise@=\dimen149
 )
 (f:/TeX/texlive/2020/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count181
+\inf@bad=\count189
 LaTeX Info: Redefining \frac on input line 227.
-\uproot@=\count182
-\leftroot@=\count183
+\uproot@=\count190
+\leftroot@=\count191
 LaTeX Info: Redefining \overline on input line 389.
-\classnum@=\count184
-\DOTSCASE@=\count185
+\classnum@=\count192
+\DOTSCASE@=\count193
 LaTeX Info: Redefining \ldots on input line 486.
 LaTeX Info: Redefining \dots on input line 489.
 LaTeX Info: Redefining \cdots on input line 610.
-\Mathstrutbox@=\box45
-\strutbox@=\box46
-\big@size=\dimen146
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen150
 LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
-\macc@depth=\count186
-\c@MaxMatrixCols=\count187
+\macc@depth=\count194
+\c@MaxMatrixCols=\count195
 \dotsspace@=\muskip16
-\c@parentequation=\count188
-\dspbrk@lvl=\count189
-\tag@help=\toks20
-\row@=\count190
-\column@=\count191
-\maxfields@=\count192
-\andhelp@=\toks21
-\eqnshift@=\dimen147
-\alignsep@=\dimen148
-\tagshift@=\dimen149
-\tagwidth@=\dimen150
-\totwidth@=\dimen151
-\lineht@=\dimen152
-\@envbody=\toks22
+\c@parentequation=\count196
+\dspbrk@lvl=\count197
+\tag@help=\toks21
+\row@=\count198
+\column@=\count199
+\maxfields@=\count266
+\andhelp@=\toks22
+\eqnshift@=\dimen151
+\alignsep@=\dimen152
+\tagshift@=\dimen153
+\tagwidth@=\dimen154
+\totwidth@=\dimen155
+\lineht@=\dimen156
+\@envbody=\toks23
 \multlinegap=\skip50
 \multlinetaggap=\skip51
-\mathdisplay@stack=\toks23
+\mathdisplay@stack=\toks24
 LaTeX Info: Redefining \[ on input line 2859.
 LaTeX Info: Redefining \] on input line 2860.
 )
@@ -171,15 +196,15 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 ))
 (f:/TeX/texlive/2020/texmf-dist/tex/latex/amscls/amsthm.sty
 Package: amsthm 2017/10/31 v2.20.4
-\thm@style=\toks24
-\thm@bodyfont=\toks25
-\thm@headfont=\toks26
-\thm@notefont=\toks27
-\thm@headpunct=\toks28
+\thm@style=\toks25
+\thm@bodyfont=\toks26
+\thm@headfont=\toks27
+\thm@notefont=\toks28
+\thm@headpunct=\toks29
 \thm@preskip=\skip52
 \thm@postskip=\skip53
 \thm@headsep=\skip54
-\dth@everypar=\toks29
+\dth@everypar=\toks30
 )
 (f:/TeX/texlive/2020/texmf-dist/tex/latex/newtx/newtxmath.sty
 Package: newtxmath 2020/03/02 v1.625
@@ -194,13 +219,13 @@ Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
 (f:/TeX/texlive/2020/texmf-dist/tex/latex/oberdiek/centernot.sty
 Package: centernot 2016/05/16 v1.4 Centers the not symbol horizontally (HO)
 )
-\tx@cntz=\count193
+\tx@cntz=\count267
 
 (f:/TeX/texlive/2020/texmf-dist/tex/generic/kastrup/binhex.tex)
-\tx@Isdigit=\count194
-\tx@IsAlNum=\count195
-\tx@tA=\toks30
-\tx@tB=\toks31
+\tx@Isdigit=\count268
+\tx@IsAlNum=\count269
+\tx@tA=\toks31
+\tx@tB=\toks32
 \tx@su=\read2
 LaTeX Font Info:    Redeclaring symbol font `operators' on input line 317.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
@@ -284,7 +309,7 @@ LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 LaTeX Font Info:    Overwriting symbol font `largesymbolsTXA' in version `bold'
 
 (Font)                  U/ntxexa/m/n --> U/ntxexa/b/n on input line 570.
-\tx@sbptoks=\toks32
+\tx@sbptoks=\toks33
 LaTeX Font Info:    Redeclaring math delimiter \lfloor on input line 792.
 LaTeX Font Info:    Redeclaring math delimiter \rfloor on input line 793.
 LaTeX Font Info:    Redeclaring math delimiter \lceil on input line 794.
@@ -298,12 +323,12 @@ LaTeX Font Info:    Redeclaring math delimiter \vert on input line 805.
 LaTeX Font Info:    Redeclaring math accent \dot on input line 876.
 LaTeX Font Info:    Redeclaring math accent \ddot on input line 877.
 LaTeX Font Info:    Redeclaring math accent \vec on input line 1940.
-\ntx@numstart=\count196
-\ntx@UCstart=\count197
-\ntx@lcstart=\count198
-\ntx@tmpc=\count199
-\ntx@imath=\count266
-\ntx@jmath=\count267
+\ntx@numstart=\count270
+\ntx@UCstart=\count271
+\ntx@lcstart=\count272
+\ntx@tmpc=\count273
+\ntx@imath=\count274
+\ntx@jmath=\count275
 LaTeX Info: Redefining \Bbbk on input line 2449.
 LaTeX Info: Redefining \not on input line 2598.
 LaTeX Info: Redefining \textsquare on input line 2628.
@@ -326,8 +351,8 @@ Package graphics Info: Driver file: pdftex.def on input line 105.
 (f:/TeX/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen153
-\Gin@req@width=\dimen154
+\Gin@req@height=\dimen157
+\Gin@req@width=\dimen158
 )
 (f:/TeX/texlive/2020/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
@@ -359,13 +384,13 @@ s
 \f@nch@O@olf=\skip62
 \f@nch@O@orf=\skip63
 )
-\c@theorem=\count268
-\c@definition=\count269
+\c@theorem=\count276
+\c@definition=\count277
 
 (f:/TeX/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count270
-\l__pdf_internal_box=\box47
+\l__kernel_color_stack_int=\count278
+\l__pdf_internal_box=\box49
 )
 (./MCM-ICM_2021_Summary.aux)
 \openout1 = `MCM-ICM_2021_Summary.aux'.
@@ -447,21 +472,22 @@ LaTeX Font Info:    ... okay on input line 35.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\c@mv@tabular=\count271
-\c@mv@boldtabular=\count272
+\c@lstlisting=\count279
+\c@mv@tabular=\count280
+\c@mv@boldtabular=\count281
 (f:/TeX/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count273
-\scratchdimen=\dimen155
-\scratchbox=\box48
-\nofMPsegments=\count274
-\nofMParguments=\count275
-\everyMPshowfont=\toks33
-\MPscratchCnt=\count276
-\MPscratchDim=\dimen156
-\MPnumerator=\count277
-\makeMPintoPDFobject=\count278
-\everyMPtoPDFconversion=\toks34
+\scratchcounter=\count282
+\scratchdimen=\dimen159
+\scratchbox=\box50
+\nofMPsegments=\count283
+\nofMParguments=\count284
+\everyMPshowfont=\toks34
+\MPscratchCnt=\count285
+\MPscratchDim=\dimen160
+\MPnumerator=\count286
+\makeMPintoPDFobject=\count287
+\everyMPtoPDFconversion=\toks35
 ) (f:/TeX/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -517,56 +543,42 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 (Font)              scaled to size 12.0pt on input line 45.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 17.28pt on input line 45.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 14.4pt on input line 52.
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
+(Font)              scaled to size 14.4pt on input line 52.
  [1
 
 {f:/TeX/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 20.74pt on input line 77.
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 14.4pt on input line 77.
+(Font)              scaled to size 20.74pt on input line 98.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 14.4pt on input line 77.
+(Font)              scaled to size 14.4pt on input line 98.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 10.5pt on input line 77.
+(Font)              scaled to size 10.5pt on input line 98.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 7.9pt on input line 77.
+(Font)              scaled to size 7.9pt on input line 98.
 
 
 LaTeX Warning: No \author given.
 
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 17.28pt on input line 78.
+(Font)              scaled to size 17.28pt on input line 99.
 (./MCM-ICM_2021_Summary.toc)
 \tf@toc=\write3
 \openout3 = `MCM-ICM_2021_Summary.toc'.
 
-LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 14.4pt on input line 80.
+ [1
+
+]
 LaTeX Font Info:    Trying to load font information for TS1+ntxtlf on input lin
-e 82.
+e 112.
 
 (f:/TeX/texlive/2020/texmf-dist/tex/latex/newtx/ts1ntxtlf.fd
 File: ts1ntxtlf.fd 2015/01/18 v1.0 fd file for TS1/ntxtlf
 )
 LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
-(Font)              scaled to size 12.0pt on input line 82.
- [1
-
-]
-
-LaTeX Warning: Citation `1' on page 2 undefined on input line 88.
-
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 10.95pt on input line 103.
-<firstmodel.png, id=12, 1387.584pt x 706.0779pt>
-File: firstmodel.png Graphic file (type png)
-<use firstmodel.png>
-Package pdftex.def Info: firstmodel.png  used on input line 105.
-(pdftex.def)             Requested size: 540.60236pt x 275.08914pt.
-
-Overfull \hbox (52.77985pt too wide) in paragraph at lines 105--106
-[]  
- []
+(Font)              scaled to size 12.0pt on input line 112.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -574,39 +586,222 @@ Make it at least 14.49998pt.
 We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
-[2] [3 <./firstmodel.png>]
-<Figure_1.png, id=21, 956.1321pt x 701.019pt>
+[2]
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 10.95pt on input line 150.
+<Figure_1.png, id=15, 726.3135pt x 701.019pt>
 File: Figure_1.png Graphic file (type png)
 <use Figure_1.png>
-Package pdftex.def Info: Figure_1.png  used on input line 138.
-(pdftex.def)             Requested size: 682.86613pt x 500.65787pt.
+Package pdftex.def Info: Figure_1.png  used on input line 152.
+(pdftex.def)             Requested size: 227.62204pt x 219.699pt.
 
-Overfull \hbox (195.04362pt too wide) in paragraph at lines 138--139
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[3] [4 <./Figure_1.png>]
+<firstmodel.png, id=29, 1387.584pt x 706.0779pt>
+File: firstmodel.png Graphic file (type png)
+<use firstmodel.png>
+Package pdftex.def Info: firstmodel.png  used on input line 207.
+(pdftex.def)             Requested size: 483.69684pt x 246.12898pt.
+ [5]
+<Figure_5.png, id=33, 1387.584pt x 706.0779pt>
+File: Figure_5.png Graphic file (type png)
+<use Figure_5.png>
+Package pdftex.def Info: Figure_5.png  used on input line 217.
+(pdftex.def)             Requested size: 512.1496pt x 260.60907pt.
+
+Overfull \hbox (24.32709pt too wide) in paragraph at lines 217--218
  [][] 
  []
 
-[4] [5 <./Figure_1.png>] (./MCM-ICM_2021_Summary.aux)
 
-LaTeX Warning: There were undefined references.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
- ) 
+<3D.png, id=34, 683.05188pt x 314.67563pt>
+File: 3D.png Graphic file (type png)
+<use 3D.png>
+Package pdftex.def Info: 3D.png  used on input line 228.
+(pdftex.def)             Requested size: 398.33858pt x 183.5155pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[6 <./firstmodel.png>]
+<Figure_3.png, id=40, 462.528pt x 346.896pt>
+File: Figure_3.png Graphic file (type png)
+<use Figure_3.png>
+Package pdftex.def Info: Figure_3.png  used on input line 249.
+(pdftex.def)             Requested size: 398.33858pt x 298.76936pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[7 <./Figure_5.png>]
+<simple graph.png, id=45, 462.528pt x 346.896pt>
+File: simple graph.png Graphic file (type png)
+<use simple graph.png>
+Package pdftex.def Info: simple graph.png  used on input line 263.
+(pdftex.def)             Requested size: 85.35826pt x 64.01595pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<simple graph2.png, id=46, 462.528pt x 346.896pt>
+File: simple graph2.png Graphic file (type png)
+<use simple graph2.png>
+Package pdftex.def Info: simple graph2.png  used on input line 270.
+(pdftex.def)             Requested size: 85.35826pt x 64.01595pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[8 <./3D.png>] [9 <./Figure_3.png> <./simple graph.png>]
+<mind1.png, id=55, 640.3925pt x 687.56876pt>
+File: mind1.png Graphic file (type png)
+<use mind1.png>
+Package pdftex.def Info: mind1.png  used on input line 297.
+(pdftex.def)             Requested size: 170.71652pt x 183.28546pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<avant1.png, id=56, 482.80376pt x 289.08pt>
+File: avant1.png Graphic file (type png)
+<use avant1.png>
+Package pdftex.def Info: avant1.png  used on input line 312.
+(pdftex.def)             Requested size: 284.52756pt x 170.36604pt.
+[10 <./simple graph2.png>]
+<avant2.png, id=61, 555.07375pt x 165.61874pt>
+File: avant2.png Graphic file (type png)
+<use avant2.png>
+Package pdftex.def Info: avant2.png  used on input line 318.
+(pdftex.def)             Requested size: 284.52756pt x 84.89658pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<blue.png, id=62, 554.07pt x 324.21124pt>
+File: blue.png Graphic file (type png)
+<use blue.png>
+Package pdftex.def Info: blue.png  used on input line 325.
+(pdftex.def)             Requested size: 284.52756pt x 166.48831pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<compareofinf.png, id=63, 1541.76pt x 739.76375pt>
+File: compareofinf.png Graphic file (type png)
+<use compareofinf.png>
+Package pdftex.def Info: compareofinf.png  used on input line 336.
+(pdftex.def)             Requested size: 341.43306pt x 163.82086pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<235.png, id=64, 1307.88625pt x 374.39874pt>
+File: 235.png Graphic file (type png)
+<use 235.png>
+Package pdftex.def Info: 235.png  used on input line 345.
+(pdftex.def)             Requested size: 284.52756pt x 81.4482pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[11 <./mind1.png> <./avant1.png>] [12 <./avant2.png (PNG copy)> <./blue.png (PN
+G copy)>] [13 <./compareofinf.png> <./235.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 403--404
+
+ []
+
+[14]
+<thermodynamic chart.png, id=82, 1387.584pt x 706.0779pt>
+File: thermodynamic chart.png Graphic file (type png)
+<use thermodynamic chart.png>
+Package pdftex.def Info: thermodynamic chart.png  used on input line 423.
+(pdftex.def)             Requested size: 341.43306pt x 173.73938pt.
+ [15 <./thermodynamic chart.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 457--458
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 458--459
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 459--460
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 460--461
+
+ []
+
+<4genre.png, id=88, 1541.76pt x 521.95pt>
+File: 4genre.png Graphic file (type png)
+<use 4genre.png>
+Package pdftex.def Info: 4genre.png  used on input line 465.
+(pdftex.def)             Requested size: 369.88582pt x 125.2148pt.
+[16] [17 <./4genre.png>]
+<popular.png, id=97, 1148.79187pt x 554.07pt>
+File: popular.png Graphic file (type png)
+<use popular.png>
+Package pdftex.def Info: popular.png  used on input line 525.
+(pdftex.def)             Requested size: 341.43306pt x 164.67513pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<numbertrend.png, id=98, 1541.76pt x 739.76375pt>
+File: numbertrend.png Graphic file (type png)
+<use numbertrend.png>
+Package pdftex.def Info: numbertrend.png  used on input line 542.
+(pdftex.def)             Requested size: 341.43306pt x 163.82086pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[18] [19 <./popular.png> <./numbertrend.png>]
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
+(Font)              scaled to size 12.0pt on input line 601.
+ [20] [21]
+Overfull \hbox (5.6055pt too wide) in paragraph at lines 633--666
+\T1/ntxtlf/m/n/12 ja.append(np.linalg.norm(np.array(ele.iloc[i,1:11]).astype(fl
+oat)-np.array(la.iloc[j,1:11]).astype(float))) 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 633--666
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 668--680
+
+ []
+
+[22] [23] (./MCM-ICM_2021_Summary.aux) ) 
 Here is how much of TeX's memory you used:
- 6081 strings out of 480608
- 76622 string characters out of 5905571
- 316690 words of memory out of 5000000
- 21871 multiletter control sequences out of 15000+600000
- 580680 words of font info for 94 fonts, out of 8000000 for 9000
+ 7546 strings out of 480608
+ 97389 string characters out of 5905571
+ 344776 words of memory out of 5000000
+ 23284 multiletter control sequences out of 15000+600000
+ 592076 words of font info for 118 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 31i,11n,45p,876b,316s stack positions out of 5000i,500n,10000p,200000b,80000s
-{f:/TeX/texlive/2020/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc}{f:/TeX/te
-xlive/2020/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}<f:/TeX/texlive/2020
-/texmf-dist/fonts/type1/public/tex-gyre/qtmr.pfb><f:/TeX/texlive/2020/texmf-dis
-t/fonts/type1/public/newtx/ztmb.pfb><f:/TeX/texlive/2020/texmf-dist/fonts/type1
-/public/newtx/ztmr.pfb>
-Output written on MCM-ICM_2021_Summary.pdf (6 pages, 467255 bytes).
+ 31i,12n,45p,846b,293s stack positions out of 5000i,500n,10000p,200000b,80000s
+{f:/TeX/texlive/2020/texmf-dist/fonts/e
+nc/dvips/newtx/ntx-ec-tlf.enc}{f:/TeX/texlive/2020/texmf-dist/fonts/enc/dvips/n
+ewtx/ntx-ot1-tlf.enc}{f:/TeX/texlive/2020/texmf-dist/fonts/enc/dvips/tex-gyre/q
+-ts1.enc}<f:/TeX/texlive/2020/texmf-dist/fonts/type1/public/newtx/NewTXMI.pfb><
+f:/TeX/texlive/2020/texmf-dist/fonts/type1/public/newtx/NewTXMI7.pfb><f:/TeX/te
+xlive/2020/texmf-dist/fonts/type1/public/tex-gyre/qtmr.pfb><f:/TeX/texlive/2020
+/texmf-dist/fonts/type1/public/newtx/txexs.pfb><f:/TeX/texlive/2020/texmf-dist/
+fonts/type1/public/newtx/txmiaX.pfb><f:/TeX/texlive/2020/texmf-dist/fonts/type1
+/public/txfonts/txsyb.pfb><f:/TeX/texlive/2020/texmf-dist/fonts/type1/public/ne
+wtx/txsys.pfb><f:/TeX/texlive/2020/texmf-dist/fonts/type1/public/newtx/ztmb.pfb
+><f:/TeX/texlive/2020/texmf-dist/fonts/type1/public/newtx/ztmr.pfb><f:/TeX/texl
+ive/2020/texmf-dist/fonts/type1/public/newtx/ztmri.pfb>
+Output written on MCM-ICM_2021_Summary.pdf (24 pages, 1126825 bytes).
 PDF statistics:
- 42 PDF objects out of 1000 (max. 8388607)
- 26 compressed objects within 1 object stream
+ 157 PDF objects out of 1000 (max. 8388607)
+ 90 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 86 words of extra memory for PDF output out of 10000 (max. 10000000)
 

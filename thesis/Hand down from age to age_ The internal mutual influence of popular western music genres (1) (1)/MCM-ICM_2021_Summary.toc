@@ -1,0 +1,38 @@
+\contentsline {section}{\numberline {1}Introduction}{2}%
+\contentsline {subsection}{\numberline {1.1}Background}{2}%
+\contentsline {subsection}{\numberline {1.2}Restatement of the Problem}{2}%
+\contentsline {subsection}{\numberline {1.3}Assumptions of the Problem}{3}%
+\contentsline {subsection}{\numberline {1.4}Notations}{3}%
+\contentsline {subsection}{\numberline {1.5}Basis Analysis of the Problem}{3}%
+\contentsline {subsubsection}{\numberline {1.5.1}The Proportion of Each Genre}{3}%
+\contentsline {section}{\numberline {2}Network Model to Describe the Relationship between influencers and followers}{4}%
+\contentsline {subsection}{\numberline {2.1}Basic Preparation}{4}%
+\contentsline {subsubsection}{\numberline {2.1.1}Spares Graph}{4}%
+\contentsline {subsection}{\numberline {2.2}Directed Network of Influencers and Followers }{4}%
+\contentsline {subsubsection}{\numberline {2.2.1}Further Analysis of the First Model}{6}%
+\contentsline {subsubsection}{\numberline {2.2.2}A 3D Model to Further Analyse The Network}{6}%
+\contentsline {subsubsection}{\numberline {2.2.3}Another Network from a Different Aspect}{7}%
+\contentsline {subsection}{\numberline {2.3}Methods to Measure `Music Influence'}{8}%
+\contentsline {subsubsection}{\numberline {2.3.1}Direct Way for Measuring `Music Influence'}{8}%
+\contentsline {subsubsection}{\numberline {2.3.2}Comprehensive Way for Determining `Music Influence'}{8}%
+\contentsline {subsubsection}{\numberline {2.3.3}Updated Version of the Comprehensive Way for Determining `Music Influence'}{10}%
+\contentsline {subsection}{\numberline {2.4}Simple Comparison of the Three Ranking Results}{10}%
+\contentsline {section}{\numberline {3}Similarity between Genres, and between Artists}{10}%
+\contentsline {subsection}{\numberline {3.1}Models of Similarities }{12}%
+\contentsline {subsubsection}{\numberline {3.1.1}Euclidean Distance}{12}%
+\contentsline {subsubsection}{\numberline {3.1.2}General Methodology}{12}%
+\contentsline {subsubsection}{\numberline {3.1.3}Similarity within the Same Genre}{13}%
+\contentsline {subsubsection}{\numberline {3.1.4}Similarities of Different Genres}{14}%
+\contentsline {subsection}{\numberline {3.2}A Supplementary Methodology to Measure Similarity}{15}%
+\contentsline {subsubsection}{\numberline {3.2.1}Pearson Correlation Coefficient}{15}%
+\contentsline {subsection}{\numberline {3.3}The Practical Influence of the Alleged Influencers to Followers}{16}%
+\contentsline {subsection}{\numberline {3.4}Distinct Characteristics of Genres}{16}%
+\contentsline {section}{\numberline {4}Variation Tendency of Genres Through Time}{17}%
+\contentsline {subsection}{\numberline {4.1}The Change in Numbers of Artists in a Genre}{17}%
+\contentsline {subsection}{\numberline {4.2}The Implying Factors in the Changing of Music Styles}{17}%
+\contentsline {section}{\numberline {5}Indicators for Revolutions in Musical Evolution}{19}%
+\contentsline {subsection}{\numberline {5.1}Music Arguments Indicators}{19}%
+\contentsline {subsection}{\numberline {5.2}Indicators for Dynamic Influencers}{19}%
+\contentsline {subsection}{\numberline {5.3}Great Artists as revolutionists}{20}%
+\contentsline {section}{\numberline {6}Integral Evaluation of Strengths, Weaknesses and Conclusions}{20}%
+\contentsline {section}{\numberline {7}A Letter To ICM}{21}%
